@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 47b2fddfc25118242a876c69de38dbce
+timeCreated: 1502799598
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: B Yekan
+  fontNames:
+  - B Yekan
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
